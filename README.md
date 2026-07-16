@@ -12,7 +12,7 @@
 ---
 
 ## 👨‍💻 Developed & Maintained By
-*   **Lead Architect & Developer:** **[Tarikur Rahman](https://yourtarikur.netlify.app)** *(General Secretary, UBCB)*
+*   **Lead Architect & Developer:** **[Tarikur Rahman](https://yourtarikur.netlify.app)** *(Club Secretary, UBCB)*
 *   **GitHub Profile:** [@tarikurrahmanbd](https://github.com/tarikurrahmanbd)
 
 ---
